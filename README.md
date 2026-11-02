@@ -1,7 +1,7 @@
 # DES Visualizer
 
 An interactive, step-by-step look inside the **Data Encryption Standard (DES)**.
-
+**▶ Live demo: https://waelalsulami1.github.io/des-visualizer/**
 DES was the standard symmetric cipher for more than twenty years. Its design ideas still appear in modern ciphers: the Feistel structure, substitution boxes, key schedules and permutations. This project shows each of those steps on real data, with every value computed live in your browser, so you can watch 64 bits being turned into ciphertext.
 
 The algorithm is written twice:
